@@ -11,7 +11,7 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 
 ## 🛠️ Tech Stack
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<picture><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /></picture>
 
 **Machine Learning**  
 <picture><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" /></picture>
