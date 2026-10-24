@@ -24,7 +24,6 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 
 ## 🌱 Currently Learning
 - Machine learning with scikit-learn (Hands-On ML)
-- Data structures and algorithms (LeetCode)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-zaza-b9aaa5441/)
