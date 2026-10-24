@@ -25,5 +25,5 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 - Data structures and algorithms (LeetCode)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/hamzah-zaza-b9aaa5441/)]
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:Hamzah.zaza@gmail.com)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-zaza-b9aaa5441/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hamzah.zaza@gmail.com)
