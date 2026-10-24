@@ -3,8 +3,11 @@
 Computer Science student at **UMass Boston** (graduating Fall 2028), interested in **machine learning**.
 
 ## 🔭 Projects
-- **Breast Cancer Tumor Classifier**: ML model that predicts malignant vs. benign tumors (97.4% accuracy) – [repo](https://github.com/[username]/hands-on-ml-exercises)
-- **Hands-On ML Exercises**: my notebooks and solutions for *Hands-On Machine Learning* (3rd ed.) [repo]([https://github.com/hamzahzaza-hub/hands-on-ml-exercises](https://github.com/hamzahzaza-hub/ml-exercises))
+
+| Project | Description | Tools |
+|---|---|---|
+| [Breast Cancer Tumor Classifier](https://github.com/hamzahzaza-hub/ml-tumor_classifier) | ML model that predicts if a tumor is malignant or benign. Compares 4 models, tunes the best one, and explains every step. **97.4% test accuracy.** | Python, scikit-learn, pandas |
+| [Hands-On ML Exercises](https://github.com/hamzahzaza-hub/ml-exercises) | My notebooks and exercise solutions for *Hands-On Machine Learning* (3rd ed.): house price prediction, MNIST digit classifier, Titanic, spam filter | Python, scikit-learn, Jupyter |
 
 ## 🛠️ Tech Stack
 **Languages**  
@@ -17,8 +20,7 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+<picture><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" /></picture>
 
 ## 🌱 Currently Learning
 - Machine learning with scikit-learn (Hands-On ML)
