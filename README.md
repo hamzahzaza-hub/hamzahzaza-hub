@@ -4,7 +4,7 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 
 ## 🔭 Projects
 - **Breast Cancer Tumor Classifier**: ML model that predicts malignant vs. benign tumors (97.4% accuracy) – [repo](https://github.com/[username]/hands-on-ml-exercises)
-- **Hands-On ML Exercises**: my notebooks and solutions for *Hands-On Machine Learning* (3rd ed.)
+- **Hands-On ML Exercises**: my notebooks and solutions for *Hands-On Machine Learning* (3rd ed.) [repo](https://github.com/hamzahzaza-hub/hands-on-ml-exercises)
 
 ## 🛠️ Tech Stack
 **Languages**  
