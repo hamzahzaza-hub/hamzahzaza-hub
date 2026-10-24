@@ -14,10 +14,10 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Machine Learning**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+<picture><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" /></picture>
+<picture><img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" /></picture>
+<picture><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" /></picture>
+<picture><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" /></picture>
 
 **Tools**  
 <picture><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" /></picture>
