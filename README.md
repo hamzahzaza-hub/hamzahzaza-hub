@@ -22,8 +22,11 @@ Computer Science student at **UMass Boston** (graduating Fall 2028), interested 
 **Tools**  
 <picture><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" /></picture>
 
-## 🌱 Currently Learning
-- Machine learning with scikit-learn (Hands-On ML)
+## 🌱 Currently Working On
+- 📘 Finishing *Hands-On Machine Learning* 
+- 🧪 Next: applying what I learned to new datasets and comparing different models
+
+## Goals
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-zaza-b9aaa5441/)
